@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The converts letter to his old freinds. Or The apologie of a commander of the Kings party, for diserting of that party, and bearing armes for the Parliament. Wherein is shewed, that those pretences of defending the Protestant religion, the fundamentall lawes, the liberties of the subjects, &amp;c. on that party, are but specious. What Irish, and papists, have been honoured &amp; cheifly intrusted. How if that army doth conquer, as it is now moulded, popery and tiranny, of necessity must be introduced. Withe the lawfulnesse of bearing defensive armes by the Parliament. Printed and published according to order.</title>
+            <author>W. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92404</idno>
+            <idno type="STC">Wing R94</idno>
+            <idno type="STC">Thomason E260_43</idno>
+            <idno type="STC">ESTC R212471</idno>
+            <idno type="EEBO-CITATION">99871080</idno>
+            <idno type="PROQUEST">99871080</idno>
+            <idno type="VID">123478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E260[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The converts letter to his old freinds. Or The apologie of a commander of the Kings party, for diserting of that party, and bearing armes for the Parliament. Wherein is shewed, that those pretences of defending the Protestant religion, the fundamentall lawes, the liberties of the subjects, &amp;c. on that party, are but specious. What Irish, and papists, have been honoured &amp; cheifly intrusted. How if that army doth conquer, as it is now moulded, popery and tiranny, of necessity must be introduced. Withe the lawfulnesse of bearing defensive armes by the Parliament. Printed and published according to order.</title>
+                  <author>W. R.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Twyford at the three Daggers in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 30. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.R.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123478:1" rendition="simple:additions"/>
+            <p>THE CONVERTS LETTER To his old freinds.</p>
+            <p>Or the Apologie of a Commander of the Kings Party, for di<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ting of that party, and bearing Armes for the PARLIAMENT.</p>
+            <p>Wherein is ſhewed, that thoſe pretences, of De<g ref="char:EOLhyphen"/>fending the Proteſtant Religion, the fundamentall Lawes, the Liberties of the Subjects &amp;c. on that party, are but ſpecious. What Iriſh, and Papiſts, have been <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oured &amp; <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ifly intruſted.</p>
+            <p>How if that Army doth conquer, as it is now moulded, Popery and Tiranny, of neceſſity muſt be introduced. With the lawfullneſſe of bearing defenſive Armes by the PARLIAMENT.</p>
+            <p>
+               <hi>Veritas non querit Angulos.</hi>
+            </p>
+            <bibl>
+               <hi>Romans the 16.17.18.</hi>
+            </bibl>
+            <q>
+               <p>Now I beſeech you brethren, marke them which cauſe Diviſions and offences contrary to the Doctrine which yee have learned and a<g ref="char:EOLhyphen"/>void them. For they that are ſuch ſerve not the Lord Ieſus Chriſt but their owne Belly and by good words and faire ſpeeches deceive the Hearts of the ſimple.</p>
+            </q>
+            <p>
+               <hi>Printed and Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON Printed for <hi>H. Twyford</hi> at the three Daggers in Fleet-ſtreet <hi>MAY</hi> 30. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123478:2" rendition="simple:additions"/>
+            <head>The Apologie of a Commander of the Kings, for diſerting that party, and bearing Arms for the Parliament, with the rea<g ref="char:EOLhyphen"/>ſons that induced him thereto.</head>
+            <head type="sub">To all my old fellow Proteſtant Souldiers, in the Kings Army theſe.</head>
+            <opener>
+               <salute>Fellows in Arms,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Ever had any man greater confidence of the Kings owne integrity, and power of himſelfe, in the managing of his owne buſineſſe then I had. But now, my feares too truly tell mee otherwiſe in point of power; And I very much pitty many honeſt, and ſound Proteſtants a<g ref="char:EOLhyphen"/>mongſt you, great enemies to Popery, which are ingaged on that party, out of the ſame con<g ref="char:EOLhyphen"/>fidence that I was; Whom I wiſh (though ne<g ref="char:EOLhyphen"/>ver that occaſion, to pry into the ſecrets of the times, which I have had) to conſider well with themſelves, and they ſhall find Prince <hi>Ru<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> and his Accomplices fight, even ſo much for the Priviledges, and Liberties of the Subjects, as the Papiſts doe, for the Proteſtant Religi<g ref="char:EOLhyphen"/>on. I lay nothing of this on the King, God forbid (in an injurious way) I ſhould touch ſo much as the skirt of his garment. But it is apparent, there are thoſe who buzze into his Majeſties eares extreame (pretended) injury in point of <hi>Prerogative, &amp;c.</hi> which in effect is but to engage him, in opinionated neceſſitie, to make uſe of their help, to right himſelfe. And under colour thereof to draw his Majeſty (as pretended principle) by accident to countenance the Malignant de<g ref="char:EOLhyphen"/>ſignes of Papiſts, and publick diſturbers of the Peace, to accompliſh their own ends. And leſt I ſhould be thought a generall Satyriſt ra<g ref="char:EOLhyphen"/>ther then to tell particular truths, I ſhall deſcend to ſome particulars.</p>
+            <p>I know, that moſt of you which have Commiſſions in that Army have in them this ſpecious clauſe incerted; <hi>For defence of the Kings Royall Perſon and Authority, the Proteſtant Religion, the Lawes of the Land, the Liberty of the Subjects, and priviledges of the Parliament.</hi> But how farre theſe Commiſſions in theſe particulars are purſued, I ſhall offer by the occurrences, ſince time is the beſt teller of truth, in things of this nature.</p>
+            <p>I ſhall draw my firſt obſervation from <hi>Ireland,</hi> which wil ſhew how far this is purſued in matter of Religion; And herein (I muſt confeſſe) I did think the Rebellion in that Kingdome to be an act of their owne, without any allowance from <hi>England,</hi> although it was alwayes allea<g ref="char:EOLhyphen"/>ged by the Iriſh, that they had the Kings Commiſſion for it; That they were the Queens Souldiers: that they fought for their religion, <hi>&amp;c.</hi>
+            </p>
+            <p>He that doth but conſider how, and on what tearms, the Ceſſation there was made (pretended to be an act of neceſſity) how many of the
+<pb n="2" facs="tcp:123478:2"/>Iriſh Rebels were drawn over into <hi>England</hi> under the name of the Proteſtant Army there? Such as <hi>Welch</hi> his Regiment of horſe; The re<g ref="char:EOLhyphen"/>cruit of St. <hi>Legers</hi> Regiment of foot, now the Duke of <hi>Yorks</hi> regiment. <hi>Oſullivan</hi> (the Lord of <hi>Muskeries</hi> Cook) his Troop, with many others which have butchered the Proteſtants in that Kingdome. He that doth but conſider with himſelf, what Iriſh have been alwayes Liegers about the King, <hi>viz.</hi> The Lord <hi>Taffe,</hi> the Lord of <hi>Coſteloe,</hi> Sir <hi>John Dungan, Garrat Talbot, George Evelin,</hi> Mr. <hi>Robinſon,</hi> Mr. <hi>William Brent, Philip Roch,</hi> Doctor <hi>Meara</hi> (Phyſitian to Prince <hi>Rupert</hi>) <hi>Rob. Welſh, Rich-Power,</hi> Captain <hi>O Bryan,</hi> Major <hi>ô Neil, Edmond Keogh Butler, &amp;c.</hi> be<g ref="char:EOLhyphen"/>ſides Engliſh Papiſts (the bellows and fomenters of war) ca<g ref="char:cmbAbbrStroke">̄</g>not but re<g ref="char:EOLhyphen"/>member: that the ſtatutes inacted in this Kingdom againſt popiſh Re<g ref="char:EOLhyphen"/>cuſants, have been well put in execution according to the Kings Pro<g ref="char:EOLhyphen"/>clamation about this time three years to that purpoſe.<note place="margin">10. <hi>Aug.</hi> 1642.</note> Or ſhall we not think this Proclamation was ſet forth meerly to delude the people.</p>
+            <p>He that doth but remember how many thouſands of the Kings loyall Proteſtant Subjects of <hi>Ireland,</hi> were bereaved of their lives and eſtates, without any provocation or injury offered. And how the King by act of Parliament, granted the power and care of Reducement of that Kingdom to the Parliament of <hi>England,</hi> cannot but think very ſtrange<g ref="char:EOLhyphen"/>ly of the pacification in that Kingdom, made or to be made, on ſuch diſhonourable tearms, when as no ſatisfaction ſhall bee made for the effuſion of ſo much innocent blood, or for the poore Proteſtant Inha<g ref="char:EOLhyphen"/>bitants loſſes, be they never ſo great.</p>
+            <p>He that doth but conſider, how the Iriſh papiſts &amp; Rebels, have been honoured, and truſted both in <hi>England</hi> and <hi>Ireland,</hi> and what immuni<g ref="char:EOLhyphen"/>ties have been granted them, <hi>viz. Muskery</hi> muſt be made Preſident of <hi>Mounſter</hi> and <hi>Thomond;</hi> The Parliament of <hi>Ireland</hi> muſt be allowed to be held at <hi>Kilkenny,</hi> the Metropolis of Rebellion; <hi>Poynings</hi> act muſt be reverſed, which is, that no Act of Parliament ſhal paſſe until it be firſt certified into <hi>England,</hi> and allowed of by the King and his Councell, ſo as the Iriſh ſhall by this have liberty to make what acts they pleaſe. The Proteſtant party (if they dare adventure their throats) muſt come to <hi>Kilkenny</hi> to the Parliament. <hi>Edmond Fitzgerrald</hi> (otherwiſe called <hi>Edmond ô Clenlas</hi>) muſt be made a Barroner, for the good ſervice he did in <hi>Ireland,</hi> in raiſing &amp; maintaining a Troop of horſe, and a foot Com<g ref="char:EOLhyphen"/>pany in rebellion all the wars againſt the Proteſtants. <hi>Robert Welſh,</hi> and <hi>Rich. Power</hi> muſt be Knighted, as part of their Iriſh Court agents, and have great commands conferred on them, one to command a Bri<g ref="char:EOLhyphen"/>gade of horſe in <hi>England</hi> and the other to be made a Collonel, and then Governour of <hi>Bartley</hi> in the place of Collonel <hi>Veale,</hi> a Proteſtant, that muſt be ſuſpected and put forth. <hi>Bryan ô Neale, Edmund Butler, Garrat Talbot</hi> (another part of their Iriſh Court agents) muſt be Knighted at leaſt, if not Baronets, and great commands muſt be conferred on them.</p>
+            <p>He that doth but remember, how at the beginning of this Parlia<g ref="char:EOLhyphen"/>ment, the foure main Jeſuiticall ſpirits of this Kingdome were baniſh<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:123478:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:123478:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:123478:4"/>by act of Parliament with the Kings owne conſent, <hi>viz.</hi> Sir, <hi>John Winter Walt. Mountague,</hi> Sir <hi>Toby Mathews,</hi> and Sir <hi>Kenelm Digby;</hi> And yet of theſe, how much <hi>Winter</hi> is honoured and truſted now, is publikely knowne, inſomuch that Proteſtants in <hi>Briſtoll</hi> muſt be ſhot to death for refuſing to go under his command. And <hi>Walt. Mountague</hi> (though a known Jeſuite, and taken in <hi>London</hi> as a ſpye) muſt bee thought in exchange worthy of a Captaine and Lievtenant of horſe, more then the Earle of <hi>Cleaveland,</hi> that is a Peere of the Realme, and commanded a Brigade of horſe, if what was offered may be beleeved.</p>
+            <p>He that doth but conſider what Garriſons on the Kings party are, and have been intruſted in the hands of Papiſts <hi>viz.</hi> In <hi>Oxford,</hi> the Kings head quarter, Sir <hi>Arthur Aſton</hi> muſt be Governour, and Collonel <hi>Gage</hi> (ſince ſhine) his aſſiſtant. In <hi>Briſtoll</hi> the next grand Garriſon, the Lord <hi>Herbert,</hi> the Lord <hi>Rivers,</hi> the Lord <hi>Sturton &amp;c</hi> muſt have the ſuperintendent, or directive power, <hi>Mounſier Garnier</hi> (a French Pa<g ref="char:EOLhyphen"/>piſts of the Queens placing) is Major of the Town, and a Jeſuite (as I am informed) is the Governours Capt Lievtenant. In <hi>Baſing</hi> are the Marqueſſe of <hi>Wincheſter</hi> and his retinue; In the Forreſt of Deane, are Sir <hi>Jo. Winter</hi> and his. In <hi>Barkley Caſtle.</hi> Collonel <hi>Power</hi> (as I named before) and <hi>Slowley</hi> his Major. In <hi>Nunny</hi> Caſtle, Captaine <hi>Pratar, &amp;c.</hi> Theſe all in theſe places have the command. And by theſe in one cor<g ref="char:EOLhyphen"/>ner of the Kingdome, you may judge of other Parts, as <hi>Expede Hercu<g ref="char:EOLhyphen"/>lem,</hi> by the dimenſion of the foot the whole body.</p>
+            <p>He that doth but conſider (beſides theſe) in the Armies who are moſt intruſted or reſpected, ſhall find them to be moſt Papiſts. Such as</p>
+            <p>Collonel <hi>William Arundel</hi> of <hi>Warder</hi> and his horſe Regiment, all Pa<g ref="char:EOLhyphen"/>piſts. <hi>Robert Bret</hi> Lievtenant-Collonel to <hi>Courtney</hi> made a Barro<g ref="char:EOLhyphen"/>net. <hi>Peter Treviltan,</hi> Major of foot to Prince <hi>Maurice.</hi> Major <hi>Webb<g ref="char:punc">▪</g>
+               </hi> ſometimes to be Major Generall for <hi>Dorſetſhire. Richard Hunt,</hi> Lievtenant-Collonel to the Queens Regiment of foot. <hi>Cum multis alis<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quos nunc per ſcribere longum eſt.</hi>
+            </p>
+            <p>Theſe, you know, I preſume, which are all within my knowledge; be<g ref="char:EOLhyphen"/>ſides Captains and others of meaner command, And beſides Iriſh, Scot<g ref="char:EOLhyphen"/>tiſh, Dutch, and French papiſts amongſt the Cavalry, which for num<g ref="char:EOLhyphen"/>ber are like the Locuſts in <hi>Egypt.</hi> Theſe are only in my memory, and I beleeve I here mention in particular an inconſiderable number of them in compariſon with the whole. If I might beleeve ſome of the Iriſh Rebell Co<g ref="char:cmbAbbrStroke">̄</g>miſſionets who told it me themſelves, &amp; I declared is much to ſeverall perſons. It is intend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and 10000 of the Iriſh Rebels in <hi>England</hi> ſuddenly. And if this be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way or theſe the perſons b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom the Proteſtant Religion is <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f theſe are any Symptomes or tokens <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the times.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 paragraph">
+                  <desc>〈1 paragraph〉</desc>
+               </gap>
+            </p>
+            <pb n="4" facs="tcp:123478:4"/>
+            <p>I take the word defence to be correlative to the word <hi>offence.</hi> And as in the word, ſo in the matter; there can be no defence without offence, or injury firſt offered. Yet this was that pretence <hi>of defence,</hi> under co<g ref="char:EOLhyphen"/>lour whereof the Rebels of <hi>Ireland</hi> maſſacred, plundered, and expel<g ref="char:EOLhyphen"/>led the Proteſtants for no other offence, then for teaching them civili<g ref="char:EOLhyphen"/>ty, and how to live like Chriſtians. So as here is the firſt offence offered by Papi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts cloaked in the name of defence, and under colour of main<g ref="char:EOLhyphen"/>taining their Religion, Lawes, and Liberties.</p>
+            <p>I profeſſe I thought really the King intended (according to his ſeve<g ref="char:EOLhyphen"/>rall Proteſtations, Vows and Declarations, with ſeeming innovations made by Parliament and their party) to performe all theſe things pre<g ref="char:EOLhyphen"/>tended, which engaged me to ſerve amongſt you.</p>
+            <list>
+               <item>1. Becauſe it was ſaid to maintaine the Proteſtant Religion eſtab<g ref="char:EOLhyphen"/>liſhed by law, which was ſound in all fundamentall points of do<g ref="char:EOLhyphen"/>ctrine. Howſoever it was in diſcipline, I did not then ſo well conſider.</item>
+               <item>2. That it was to maintaine the fundamentall Lawes eſtabliſhed, legally, under ſeeming preſidents of authority and antiquity. To which I ſaw no anſwer, although there were one publiſhed.</item>
+               <item>3. Becauſe they were engaged amongſt you perſons of great ho<g ref="char:EOLhyphen"/>nour and fortunes, reputed good Proteſtants, whom I thought in this monarchicall government, ſetled by law would not longer aſſiſt the King in this war, then whiles he maintained the Proteſtant Religion, and governed by the Lawes.</item>
+               <item>4. That ſo long as there was no other proper ſtrength but Prote<g ref="char:EOLhyphen"/>ſtants and ſubjects. And that army truſted in the hands of ſuch; There was no danger of popery, or tiranny, if the King ſhould prevaile by the ſword, although ſome few Papiſts were made uſe of, as a miniſteriall hand only.</item>
+            </list>
+            <p>And for my part I aſſure you charity binds me to the ſame opinion of the reallity of the Kings owne intentions in the ſame ſtill, though I am otherwiſe ſatisfied of his power in performance thereof, for when I conſider.</p>
+            <list>
+               <item>1. What power and influence a beloved Queen may have on the Kings actions; Which was <hi>Solomons</hi> caſe and our ſad experience can witnes.</item>
+               <item>2. What Councellours and adviſers are againe moſt in favour, belo<g ref="char:EOLhyphen"/>ved, honoured and truſted which projected the greivances that begot, theſe Wars and which were the primitive cauſe of our miſeries.</item>
+               <item>3. That by the occurrences, it doth plainly appeare the Iriſh Wars, were ſet on foote by the ſame Councells.</item>
+               <item>4. That the fundamentall Laws of the Kingdome, are made a ſtal<g ref="char:EOLhyphen"/>king horſe to creep under covert, rather then a path to walke by. And that it ſtrayned at to make an unlimited prerogative in the King for their own ends.</item>
+               <item>5. That al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commanders in the Kings army are by degrees new moulded, for the moſt part. And that army put into the hands of the
+<pb n="5" facs="tcp:123478:5"/>two Princes, Papiſts, forreigners, or ſuch as have betrayed their truſts to ambition or avarice.</item>
+               <item>6. That oppreſſion and injury by plundering and otherwiſe, is ra<g ref="char:EOLhyphen"/>ther palliated then puniſhed. And all Laws (but what the will of eve<g ref="char:EOLhyphen"/>ry man by the ſword doth adminiſter) become dead letters.</item>
+               <item>7. That ſuch numbers of Auxillary Forces, as Papiſts, French, Iriſh. Dutch, <hi>&amp;c.</hi> are brought in and intruſted when as Proteſtants are ſuſ<g ref="char:EOLhyphen"/>pected, put forth, and diſcountenanced.</item>
+               <item>8. That of neceſſity that army, (as now it is) in all humane pro<g ref="char:EOLhyphen"/>bability muſt produce popery and Tiranny by conſtraint of their power, if the ſword thereof prevaile, theſe things being conſidered and the faire carriage on the Parliament ſide, I preſume it will ſatisfie all indifferent perſons on your party, aſwell as me, that the Parliament aymeth at nothing but thoſe ends which are religious, honorable juſt, legall, and according to their Covenant. <hi>For defence of the Kings Roy<g ref="char:EOLhyphen"/>all perſon and authority in the preſervation and defence of the true Religi<g ref="char:EOLhyphen"/>on, and liberties of the Kingdome with their owne juſt rights and priviled<g ref="char:EOLhyphen"/>ges, &amp;c.</hi>
+               </item>
+            </list>
+            <p>The <hi>Parliament</hi> is that great Court of juſtice and Councell of State which was freely convened and conſented unto to continue by the Kings own expreſſe authority and confirmation; That by the ancient and known priviledges of the ſame hath power to raiſe the <hi>Poſſe Regni</hi> as a Sheriffe by the Common Law, hath to raiſe the <hi>Poſſe Comitatus,</hi> to obvene and ſuppreſſe all inſurrections and diſorders, and to exe<g ref="char:EOLhyphen"/>cute juſtice. In whoſe Ordinances the Kings implyed (though not ex<g ref="char:EOLhyphen"/>preſſe) aſſent, is declared by law: Which are to be obeyed more then the orders or rules of any other Court of Juſtice. It hath juriſdiction &amp; cognizance over all perſons, and in all cauſes, in theſe his Majeſties Do<g ref="char:EOLhyphen"/>minions. The Members whereof, in duty (if not by oath) more then the Judges in other Courts, ought not to deferre, or delay to doe ju<g ref="char:EOLhyphen"/>ſtice, <hi>Neque propter magnum ſigilum neque propter parvum,</hi> although the Kings expreſſe Commands were againſt it.</p>
+            <p>So long as their is on there party no quarrell but defence, and no<g ref="char:EOLhyphen"/>thing elſe aymed at, but to purſue the Covenant, which is the ſame, the King himſelfe took in <hi>Scotland.</hi> So long as there is, no other end, but to defend the ancient Laws, and Liberties eſtabliſhed. And to reforme the Church of <hi>England,</hi> in diſcipline according to the patterne of other Proteſtant Churches, which are allowed by thoſe Proteſtants under the Hierarchy to be found in doctrine in all parts of the eſſence of Religion, and in diſcipline not ſo ſubject to tirannicall oppreſſion and exorbitancy. So long as Epiſcopacy, the Church government ſo much ſtood for by you (though alleaged to be antient) is not <hi>Iure divino,</hi> but polliticall, confeſſed by the author of the New diſtemper, allowed to be printed at <hi>Oxford,</hi> and the ſame, which the beſt reaſon, and authority authentique doe ſpeake. So long as the Litturgie or booke of Com<g ref="char:EOLhyphen"/>mon prayer eſtabliſhed by Law in <hi>Edward</hi> the ſixths time, (if all in it
+<pb n="6" facs="tcp:123478:5"/>were good and without exception,) were but a thing indifferent and then put to the queſtion, whether it were better to expunge the ould Litturgy or Maſſe Booke, or to compoſe a new. When although it was carryed at preſent (wanting our experience) that it was better to ex<g ref="char:EOLhyphen"/>punge the old. Yet D. <hi>Ridley</hi> B. of <hi>London,</hi> ſince a Martyr in the Church (for the ſame reaſons now thought fit) and many others were then for erecting a new one. So long as any prayers according to found doctrine, and the word of God comming from the ſincerity of the heart and true devotion, may be as good and effectuall to ſalvation, as the Booke of Common Prayer (if all in it were good and without of<g ref="char:EOLhyphen"/>fence.) It is more ſafe in this quarrell to joyne with the Parliament, and their party, be they for the Presbiteriall or Independent diſcipline, being both Proteſtants ſound in doctrine, then to joyne with the Pa<g ref="char:EOLhyphen"/>piſts, that are neither ſound in doctrine nor diſcipline.</p>
+            <p>The Scots they firſt bear defenſive Armes, for defence of their Reli<g ref="char:EOLhyphen"/>gion, Lawes, and Liberties; where no effuſion of blood was; And this is approved of in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct of pacification in that Kingdome by the King himſelfe to be a laudable undertaking.</p>
+            <p>The Iriſh they beare Armes on the ſame pretence, and ſhed the blood of many thouſands of innocent perſons without any provoca<g ref="char:EOLhyphen"/>tion;<note place="margin">A hundred thouſand com<g ref="char:EOLhyphen"/>puted at leaſt</note> yet this muſt be huſhed up, approved of under a Pacification, and many of them are honoured and ſpecially intruſted for it. And muſt the Engliſh tamely lie ſtill, and ſuffer Religion, Lawes, Liber<g ref="char:EOLhyphen"/>ties, and themſelves to be trampled on by perſons diſaffected; only out of a Conſcientious ſcruple, that they ought not to beare Armes a<g ref="char:EOLhyphen"/>gainſt the Annoynted of the Lord (as is ſaid) when the King is made but the cloake to their deſignes, although it be to defend the Religion, Lawes, and Liberties (which truly lye at ſtake) from innovati<g ref="char:EOLhyphen"/>on. <hi>David</hi> (that was a man after Gods owne heart) in a private quarrell as to himſelfe, made not this ſcruple, when he offered the King of <hi>Gath</hi> to goe up to battell againſt <hi>Saul;</hi> And at moſt he was ingaged but in his owne private defence, from tirranny and oppreſſion.</p>
+            <p>Much more may be done when the Publique Cauſe of Religion, Lawes, and Liberties are endangered. Kings commands in a Monar<g ref="char:EOLhyphen"/>chichall government, are like the Lawes of God in the two Tables, which declare their full will, and their ſubjects duty. Their wils are ſo ſetled in the Lawes eſtabliſhed, that they are to be obeyed in their commands, but ſo far, as they are agreeable to the Lawes and noe further. The very heathen (by the light of nature only) did confeſſe, and alow it to be the moſt juſt, and honorable quarrell in the world to fight <hi>pro aris, &amp; f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ls,</hi> for their Gods and Countrey. And <hi>Propatria mori pulchrum.</hi> that it was a gallant thing to dye for their Countrey.</p>
+            <p>The moſt ſtrict Divines under the Goſpell (though in a private quarrell hold it fit to turne the other care to the ſmiter rather than ſmite againe) yet noe waies allow us to tollerate injuries offered un<g ref="char:EOLhyphen"/>to God.<note place="margin">
+                  <hi>Nehemiah</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. <hi>Maccah</hi> 13.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> We muſt not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ſee Religion, Lawes, and Liber<g ref="char:EOLhyphen"/>tie
+<pb n="7" facs="tcp:123478:6"/>trampled on, lye ſtill in the ditch and cry God help only, (when God hath given us power) without uſing the means to eſtabliſh them; And to expect deliverance by the immediate hand of God, in a mira<g ref="char:EOLhyphen"/>culous way as of ould time.<note place="margin">
+                  <hi>Math.</hi> 4.5.6.</note> When the divell tempted our Saviour to throw himſelfe from the Pinacle of the Temple, The Devine obſerveth, <hi>That Chriſt would not caſt himſelfe downe (though he might have ſaved himſelfe,</hi>
+               <note place="margin">D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in</hi> his <hi>D<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>re</hi> 14</note> 
+               <hi>without the Miniſtrye of Angles) to ſhew us not to ſeeke ſuper<g ref="char:EOLhyphen"/>naturall meanes, when God doth lend us naturall. We tempt him when we ſeeke health without a medicine, or victory without a combate, wee tempt him, when by reaſon or counſell we may avoyd ſome evill, and yet explore his power; And laſt of all we tempt him when we enquire to far into his wiſdome, or require that unlawfully, which he is wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to offer by meanes.</hi> And therefore <hi>when the cauſe is juſt the authority lawfull, the intent good that God may be glorified a right continued,</hi>
+               <note place="margin">
+                  <hi>I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 235.</note> 
+               <hi>and imminent dangers avoyded at is and may be lawfull for Chriſtians to take Armes, And ſoe to doe is nothing contrary (as ſome have dreamed) to Chriſtian Peace &amp;c.</hi> with this ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, <hi>That,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>deſire of ſuperiority be not the cauſe of our taking Armes.</hi>
+               <note place="margin">
+                  <hi>Iam.</hi> 136.</note>
+            </p>
+            <p>It was the courſe in the primitive Church to ſtand up at the reahear<g ref="char:EOLhyphen"/>ſall of the Creede with their hands on their ſwords as ready to defend that fayth. It is according to the law of nature, <hi>Vim vi repellere,</hi> for every creature to defend themſelves from injury, much more the pub<g ref="char:EOLhyphen"/>lique ſtate or Church and Common weale. It is a treſpaſſe juſtifiable by the Common Law to kill another, <hi>ſe defendendo,</hi> in defence of him<g ref="char:EOLhyphen"/>ſelfe, or his goods. By the Matriall Law Kings in the darke are not diſtinguiſhed from enemyes but by the <hi>Worde<g ref="char:punc">▪</g>
+               </hi> which is the Law. Nei<g ref="char:EOLhyphen"/>ther are they to be knowne, but by the Lawes (which diſtinguiſh Kings from other men) in theſe times of darkenes.</p>
+            <p>The King is the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>untain of juſtice, from whence by the Co<g ref="char:cmbAbbrStroke">̄</g>mom Law and Chri<g ref="char:EOLhyphen"/>ſtian charity, is p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med can <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtreame. He is a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Church, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>x under Chriſt in theſe his Majeſties Do<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nions But if the foun<g ref="char:EOLhyphen"/>tain branch into two ſtreams by ſuffocation on pollution o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the old channel I will leave the polluted or muddy ſtreame, and ſwimm <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake in the cleare o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e if the bead be diſaffecte by any the members is (with all d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reverence to the h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad) I will joyne with thoſe member leaſt diſaffected to cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt and endeavour to take of that diſtemper from the head. And if by experimentall practice, it appeare that any member be incurable. To ſave the head, and the r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of the body. I ſay <hi>Enſerceidendum eſt ne pars ſincera tra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tur.</hi> Let it b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cut off, leaſt it pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt. If the King therefore by evill Councell and adv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce perſonally comma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on thing,<note place="margin">
+                  <hi>Acts.</hi> 4.19.</note> the Lawes e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l ſhed and the Goſpell bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the contrary, I will honour the King but obey the Lawe,<note place="margin">
+                  <hi>Acts.</hi> 5.29.</note> and the Goſpell in which is the Kings implyed aſſent And the Parliament alſo, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Kings higheſt Court of juſtice and Coun<g ref="char:EOLhyphen"/>cell of ſtate, can beſt expound interpret and give vigour to the Lawes: And doe deſire the fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhing of the true light of the Goſpell. Therefore I ſay, with <hi>Moſes</hi> unto ſuch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are of the Parliament, and their party who I now bele<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, and perceive to manage their buſines with ſincerity, <hi>Dread not nor be affraide for your God fighteth for you,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 29.30.</note> but goe on, and proſper. And I deſire to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyne with you in the worke. <hi>For ſalvation belongeth unto the Lord, and his bleſsing is with his people.</hi> Farewell and I am in charity ſtill.<note place="margin">
+                  <hi>Pſalme.</hi> 3.8.</note>
+            </p>
+            <closer>
+               <signed>W.R.</signed>
+               <date>Aprill. the 4. 1645.</date>
+            </closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:123478:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
